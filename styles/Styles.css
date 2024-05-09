@@ -1,0 +1,7 @@
+.list-cell:selected {
+    -fx-control-inner-background:blue; 
+}
+
+.list-cell {
+    -fx-control-inner-background: Navy; 
+}
